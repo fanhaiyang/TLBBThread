@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Name": "乔峰",
+    "Color": "Red",
+    "Experience": [ "丐帮帮主", "契丹人", "南院大王", "挂印离开" ]
+  },
+  {
+    "Name": "虚竹",
+    "Color": "Yellow",
+    "Experience": [ "小和尚", "逍遥掌门", "灵鹫宫宫主", "西夏驸马" ]
+  },
+  {
+    "Name": "段誉",
+    "Color": "Green",
+    "Experience": [ "钟灵儿", "木婉清", "王语嫣", "大理国王" ]
+  },
+  {
+    "Name": "段正淳",
+    "Color": "DarkYellow",
+    "Experience": [ "马夫人", "秦红棉", "王夫人", "甘宝宝", "刀白凤" ]
+  },
+  {
+    "Name": "慕容复",
+    "Color": "Blue",
+    "Experience": [ "西夏一品堂", "少林寺", "疯掉了" ]
+  }
+]
