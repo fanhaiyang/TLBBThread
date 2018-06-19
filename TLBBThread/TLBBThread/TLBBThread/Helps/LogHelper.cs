@@ -10,6 +10,12 @@ namespace TLBBThread.Helps
     public class LogHelper
     {
         private static readonly object consoleLock = new object();
+
+        /// <summary>
+        /// 控制台输出
+        /// </summary>
+        /// <param name="msg"></param>
+        /// <param name="color"></param>
         public void ConsoleLog(string msg,ConsoleColor color)
         {
             lock (consoleLock)
